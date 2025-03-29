@@ -1,4 +1,3 @@
-# BgRemover
 #  AI Background Remover
 
 A Java-based tool that automates background removal using Microsoft Designer's API. This project reverse-engineers the API calls and allows users to process images quickly by configuring input/output directories.
