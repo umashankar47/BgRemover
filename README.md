@@ -1,6 +1,6 @@
 #  AI Background Remover
 
-A Java-based tool that automates background removal using Microsoft Designer's API. This project reverse-engineers the API calls and allows users to process images quickly by configuring input/output directories.
+A Java-based tool that automates background removal using Microsoft Designer's API. This project reverse-engineers the API calls and allows users to process images Quickly and in High Quality by configuring few elements, Avoiding the hassle of clunky UI.
 
 
 ## Features
@@ -71,3 +71,12 @@ fileToken=
 
 
 ![image](https://github.com/user-attachments/assets/a758685d-9877-4b7c-bade-44d8e7560845)
+
+### Before
+![rubik](https://github.com/user-attachments/assets/b9b12d7a-0a92-4118-b09d-3f3c1cb3b7c9)
+
+### After
+![rubik](https://github.com/user-attachments/assets/6879261c-6d67-4308-9120-9105487252f7)
+
+
+
